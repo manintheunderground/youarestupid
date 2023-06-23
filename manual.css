@@ -46,3 +46,10 @@
     text-decoration: none;
     color: white;
 }
+
+img {
+    height: 300px;
+    width: 300px;
+    padding: 10px 0 0 0;
+
+}
