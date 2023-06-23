@@ -55,10 +55,12 @@
 }
 
 .introduction {
+    margin: auto;
     background: rgb(234, 234, 234);
     border: 1px solid;
     padding: .65em;
-    width: 500px;
+    min-width: 50px;
+    max-width: 600px;
     margin-bottom: 30px;
 }
 
@@ -85,8 +87,8 @@
 }
 
 .dk-img {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 
 .manual {
