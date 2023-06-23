@@ -74,17 +74,24 @@
     padding: 10px 0 0 0;
 }
 
-.noc {
-    height: 350px;
-    width: 600px;
+.slowlearning {
+    width: 150px;
+    height: 100px;
+}
+
+.closeminded {
+    width: 150px;
+    height: 100px;
 }
 
 .Connection-with-others {
-    height: 300px;
-    width: 600px;
+    width: 150px;
+    height: 100px;
+
 }
 
 .creative {
-    height: 250px;
-    width: 400px;
+    width: 150px;
+    height: 100px;
+
 }
