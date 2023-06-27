@@ -7,118 +7,102 @@
 }
 
 .banner {
-    height: 75px;
-    width: 100%;
-    background-color: black;
-    border-bottom: 6px rgb(0, 128, 187) solid;
-    color: white;
+height: 75px;
+width: 100%;
+background-color: black;
+border-bottom: 6px rgb(0, 255, 0) solid;
+color: white;
 }
 
 .logo {
-    height: 70px;
-    width: 150px;
+height: 70px;
+width: 150px;
 }
 
 .banner h1 {
-    font-size: 18px;
+font-size: 18px;
 }
 
 .navbar {
-    width: 85%;
-    margin: auto;
-    padding-top: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+width: 85%;
+margin: auto;
+padding-top: 5px;
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
 
 .navbar h1 {
-    font-size: 30px;
+font-size: 30px;
 }
 
 .navbar ul li {
-    list-style: none;
-    display: inline-block;
-    margin: 0 10px;
+list-style: none;
+display: inline-block;
+margin: 0 10px;
 }
 
 .navbar ul li a {
-    text-decoration: none;
-    color: white;
+text-decoration: none;
+color: white;
 }
 
 .content {
-    padding-top: 50px;
-    padding-left: 70px;
-    padding-right: 70px;
-}
-
-.introduction {
-    margin: auto;
-    background: rgb(234, 234, 234);
-    border: 1px solid;
-    padding: .65em;
-    min-width: 50px;
-    max-width: 600px;
-    margin-bottom: 30px;
+padding-top: 50px;
+padding-left: 70px;
+padding-right: 70px;
 }
 
 .introduction h1 {
-    font-size: 25px;
-    border-bottom: 1px solid;
+font-size: 25px;
+padding: 10px 0 10px 0;
 }
 
 .stupid-intro {
-    padding-top: 20px;
+padding-top: 20px;
 }
 
 .fucking-span {
-    font-size: 25px;
+font-size: 25px;
 }
 
 .stupid-span {
-    font-size: 20px;
+font-size: 20px;
 }
 
-.identification {
-    margin-top: 100px;
+.dn {
+    height: 250px;
+    width: 250px;
+    padding: 10px 0 50px 0;
 }
 
-.identification  h1 {
-    padding: 0 0 20px 0;
-    font-size: 25px;
+.halt {
+height: 200px;
+width: 400px;
+padding: 30px 0 30px 0;
 }
 
-.dk-img {
-    height: 200px;
-    width: 200px;
-}
-
-.manual {
-    padding: 50px 0 0 0;
-}
-
-.manual h1 {
-    padding: 0 0 20px 0;
-    font-size: 25px;
-}
-
-.manual p {
-    padding: 0 0 15px 0;
-}
-
-.bitinglip {
-    height: 100px;
-    width: 150px;
-    padding: 0 0 15px 0;
-}
-
-footer {
-    padding-top: 40px;
+footer p {
+    padding: 100px 0 0 0;
     text-align: center;
 }
 
-footer img {
-    height: 50px;
-    width: 80px;
+.grouptest {
+    height: 500px;
+    width: 800px;
+    padding: 30px 0 20px 0;
+}
+
+video {
+    padding: 10px 0 20px 0;
+}
+
+.Ifyoumade {
+    padding: 30px 0 20px 70px;
+}
+
+.filip {
+    height: 300px;
+    width: 500px;
+    padding: 20px 0 0 0;
 }
